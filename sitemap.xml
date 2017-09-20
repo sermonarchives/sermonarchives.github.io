@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/when-god-breaks-through-1997/</loc>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/the-abundant-life-19xx/</loc>
     <lastmod>2017-09-19T22:23:33-05:00</lastmod>
   </url>
@@ -19,6 +24,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/1997/</loc>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/2epiphc/</loc>
     <lastmod>2017-09-19T22:23:33-05:00</lastmod>
     <priority>0</priority>
@@ -26,6 +37,12 @@
   
   <url>
     <loc>https://sermonarchives.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/audio/</loc>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -40,6 +57,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/packers/</loc>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/pentecost/</loc>
     <lastmod>2017-09-19T21:58:04-05:00</lastmod>
     <priority>0</priority>
@@ -47,18 +70,24 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-19T22:23:33-05:00</lastmod>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-19T22:23:33-05:00</lastmod>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-19T22:23:33-05:00</lastmod>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/seymour/</loc>
+    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
