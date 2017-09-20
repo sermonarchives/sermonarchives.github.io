@@ -8,19 +8,22 @@
   </url>
   
   <url>
-    <loc>https://sermonarchives.github.io/tags/</loc>
+    <loc>https://sermonarchives.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/archive/</loc>
     <lastmod>2017-09-18T22:30:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/</loc>
-    <lastmod>2017-09-18T22:30:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sermonarchives.github.io/categories/</loc>
+    <loc>https://sermonarchives.github.io/categories/polka/</loc>
     <lastmod>2017-09-18T22:30:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -32,9 +35,14 @@
   </url>
   
   <url>
-    <loc>https://sermonarchives.github.io/</loc>
+    <loc>https://sermonarchives.github.io/tags/sermon/</loc>
     <lastmod>2017-09-18T22:30:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/</loc>
+    <lastmod>2017-09-18T22:30:00-05:00</lastmod>
   </url>
   
   <url>
