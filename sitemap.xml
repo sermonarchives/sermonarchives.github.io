@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/more-here-than-is-here-1995/</loc>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/when-god-breaks-through-1997/</loc>
     <lastmod>2017-09-19T22:39:11-05:00</lastmod>
   </url>
@@ -51,8 +56,20 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/d-day/</loc>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/epiphany/</loc>
-    <lastmod>2017-09-19T22:23:33-05:00</lastmod>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/normandy/</loc>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,18 +87,18 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
   </url>
   
   <url>
@@ -93,6 +110,18 @@
   <url>
     <loc>https://sermonarchives.github.io/tags/</loc>
     <lastmod>2017-09-19T21:58:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/transfigc/</loc>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/transfiguration/</loc>
+    <lastmod>2017-09-20T20:59:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
