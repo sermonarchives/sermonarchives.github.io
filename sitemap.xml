@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/beginning-again-with-god-1991/</loc>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/gods-love-breaks-thru-hearts-broken-1995/</loc>
     <lastmod>2017-09-21T21:45:47-05:00</lastmod>
   </url>
@@ -133,6 +138,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/1991/</loc>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/1994/</loc>
     <lastmod>2017-09-19T21:58:04-05:00</lastmod>
     <priority>0</priority>
@@ -162,7 +173,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/ash-wednesday/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,7 +226,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/lent/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -251,18 +262,18 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-21T21:56:57-05:00</lastmod>
   </url>
   
   <url>
@@ -298,6 +309,12 @@
   <url>
     <loc>https://sermonarchives.github.io/tags/undated/</loc>
     <lastmod>2017-09-21T21:39:59-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/wizard-of-oz/</loc>
+    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
     <priority>0</priority>
   </url>
   
