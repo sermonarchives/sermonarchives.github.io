@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/fearful-doubts-or-exciting-faith-1975/</loc>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/celebrate-the-resurrection-today-1978/</loc>
     <lastmod>2017-09-22T10:51:37-05:00</lastmod>
   </url>
@@ -122,6 +127,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/1975/</loc>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/1976/</loc>
     <lastmod>2017-09-21T21:09:30-05:00</lastmod>
     <priority>0</priority>
@@ -228,7 +239,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/easter/</loc>
-    <lastmod>2017-09-22T10:51:37-05:00</lastmod>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -253,6 +264,12 @@
   <url>
     <loc>https://sermonarchives.github.io/tags/lent/</loc>
     <lastmod>2017-09-21T21:56:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/lo/</loc>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -288,18 +305,18 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-22T10:51:37-05:00</lastmod>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-22T10:51:37-05:00</lastmod>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-22T10:51:37-05:00</lastmod>
+    <lastmod>2017-09-22T11:00:18-05:00</lastmod>
   </url>
   
   <url>
