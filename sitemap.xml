@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/where-does-wholeness-begin-1973/</loc>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/sermons/what-are-you-doing-that-for-1976/</loc>
+    <lastmod>2017-09-21T21:09:30-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/i-believe-help-my-unbelief-1984/</loc>
     <lastmod>2017-09-20T23:06:19-05:00</lastmod>
   </url>
@@ -59,8 +69,20 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/1973/</loc>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/1974/</loc>
     <lastmod>2017-09-20T22:46:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/1976/</loc>
+    <lastmod>2017-09-21T21:09:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,7 +146,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/ash-wednesday/</loc>
-    <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -177,7 +199,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/lent/</loc>
-    <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,19 +228,25 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/politicians/</loc>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <lastmod>2017-09-21T21:18:17-05:00</lastmod>
   </url>
   
   <url>
