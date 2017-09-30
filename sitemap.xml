@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/hindsight-1995/</loc>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/easter-a-way-to-live-1977/</loc>
     <lastmod>2017-09-22T11:18:52-05:00</lastmod>
   </url>
@@ -192,13 +197,19 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/1995/</loc>
-    <lastmod>2017-09-21T21:45:47-05:00</lastmod>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/tags/1997/</loc>
     <lastmod>2017-09-19T22:39:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/1christa/</loc>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -232,6 +243,12 @@
   
   <url>
     <loc>https://sermonarchives.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/christmas/</loc>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -321,18 +338,18 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-22T11:18:52-05:00</lastmod>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-22T11:18:52-05:00</lastmod>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-22T11:18:52-05:00</lastmod>
+    <lastmod>2017-09-29T22:56:04-05:00</lastmod>
   </url>
   
   <url>
