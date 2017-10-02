@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/its-not-easy-being-a-landlord-1996/</loc>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/to-struggle-or-to-muddle-1997/</loc>
     <lastmod>2017-09-30T19:31:08-05:00</lastmod>
   </url>
@@ -134,6 +139,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/19-pent-a/</loc>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/1972/</loc>
     <lastmod>2017-09-21T21:39:59-05:00</lastmod>
     <priority>0</priority>
@@ -214,6 +225,12 @@
   <url>
     <loc>https://sermonarchives.github.io/tags/1995/</loc>
     <lastmod>2017-09-29T22:56:04-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/1996/</loc>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -342,7 +359,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/pentecost/</loc>
-    <lastmod>2017-09-19T21:58:04-05:00</lastmod>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -360,18 +377,18 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-09-30T19:31:08-05:00</lastmod>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-09-30T19:31:08-05:00</lastmod>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-09-30T19:31:08-05:00</lastmod>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
   </url>
   
   <url>
@@ -383,6 +400,12 @@
   <url>
     <loc>https://sermonarchives.github.io/tags/south-pole/</loc>
     <lastmod>2017-09-20T23:06:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/stewardship/</loc>
+    <lastmod>2017-10-01T22:28:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
