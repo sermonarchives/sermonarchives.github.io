@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sermonarchives.github.io/sermons/the-heart-of-our-faith-1993/</loc>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/sermons/where-do-you-live-1974/</loc>
     <lastmod>2017-10-05T21:24:50-05:00</lastmod>
   </url>
@@ -237,6 +242,12 @@
   </url>
   
   <url>
+    <loc>https://sermonarchives.github.io/tags/1993/</loc>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sermonarchives.github.io/tags/1994/</loc>
     <lastmod>2017-10-05T21:01:08-05:00</lastmod>
     <priority>0</priority>
@@ -409,7 +420,7 @@
   
   <url>
     <loc>https://sermonarchives.github.io/tags/reformation-sunday/</loc>
-    <lastmod>2017-10-05T21:24:50-05:00</lastmod>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,18 +432,24 @@
   
   <url>
     <loc>https://sermonarchives.github.io/</loc>
-    <lastmod>2017-10-05T21:24:50-05:00</lastmod>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sermonarchives.github.io/tags/sermon-notes/</loc>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/categories/sermons/</loc>
-    <lastmod>2017-10-05T21:24:50-05:00</lastmod>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sermonarchives.github.io/sermons/</loc>
-    <lastmod>2017-10-05T21:24:50-05:00</lastmod>
+    <lastmod>2017-10-05T21:47:39-05:00</lastmod>
   </url>
   
   <url>
